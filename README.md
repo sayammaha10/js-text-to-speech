@@ -12,5 +12,4 @@ This is a simple **Text to Speech** web application built using **HTML**, **CSS*
 - **CSS**: For styling the interface and creating a modern look.
 - **JavaScript**: For handling the dynamic functionality, including text-to-speech conversion and voice selection using the **SpeechSynthesis API**.
 
-
 Thank you for checking out my **Text to Speech Web App**! I’m excited to share this simple tool with you as part of my journey in web development. Your feedback and suggestions are always appreciated as I continue to learn and grow in this field!
